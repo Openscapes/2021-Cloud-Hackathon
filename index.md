@@ -5,7 +5,7 @@ subtitle: "Transitioning Earthdata Workflows to the Cloud"
 author: "This Hackathon is co-hosted by PODAAC, NSIDC DAAC, and LPDAAC. Additional support is provided by ASDC, GESDISC, IMPACT, and Openscapes."
 ---
 
-## Welcome
+## Welcome!
 
 ![](https://user-images.githubusercontent.com/2915555/133526401-b79abf6c-ab0d-438d-9927-da39b7c17b96.jpg)
 
